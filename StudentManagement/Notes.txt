@@ -1,0 +1,21 @@
+﻿0.1) You'll need a mongodb account & create a test db. 
+
+0.2) also install MongoDB Compass to upload importData.json so that you can test the API.
+
+1)Install the package "Swashbuckle.AspNetCore" from nuget
+
+Swagger is the best way to showcase WEB APIs. 
+A Swagger object model exposes SwaggerDocument objects in JSON. 
+
+2) Update Startup.cs to enable swagger.
+
+3)Modify launchSettings.json
+By default, launchUrl is set to  "api/value". 
+Make it an empty string so that it will load swagger with a list of controllers and corresponding APIs.
+
+4)Install MongoDB.Driver nuget package
+
+5)Dependency injection for services takes place in Startup.cs
+
+
+

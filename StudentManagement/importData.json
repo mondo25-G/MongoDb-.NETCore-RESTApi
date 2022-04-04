@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Nick",
+        "age": 28,
+        "gender": "Male",
+        "graduated": false,
+        "address": {
+            "street": "123 Vanish St",
+            "city": "New York"
+        },
+        "courses": [
+            "C#",
+            "SQL"
+        ]
+    },
+    {
+        "name": "Helen",
+        "age": 28,
+        "gender": "Female",
+        "graduated": true,
+        "address": {
+            "street": "99 George Street",
+            "city": "Super City"
+        },
+        "courses": [
+            "ASP.NET",
+            "LINQ",
+            "Angular"
+        ]
+    },
+    {
+        "name": "Martha",
+        "age": 29,
+        "gender": "Female",
+        "graduated": false,
+        "address": {
+            "street": "101 King Street",
+            "city": "Mongo City"
+        },
+        "courses": [
+            ".NET Core",
+            "C++",
+            "Bootstrap"
+        ]
+    },
+    {
+        "name": "Jim",
+        "age": 31,
+        "gender": "Male",
+        "graduated": true,
+        "address": {
+            "street": "123 Queen Street",
+            "city": "London"
+        },
+        "courses": [
+            "Javascript",
+            "C#",
+            "HTML"
+        ]
+    },
+    {
+        "name": "Liam",
+        "graduated": false,
+        "gender": "Male",
+        "age": 22,
+        "address": {
+            "street": "124 Queen Street",
+            "city": "London"
+        },
+        "courses": [
+            "Java",
+            "Spring MVC"
+        ]
+
+    }   
+]
